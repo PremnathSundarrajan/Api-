@@ -21,11 +21,6 @@ Install my-project with npm
   nodemon index.js
 ```
     
-## Authors
-
-- Premnath S (https://github.com/PremnathSundarrajan)
-
-
 ## Usage/Examples
 
 Here there is an Array which already consists of Two datas. 
@@ -63,3 +58,7 @@ Here there is an Array which already consists of Two datas.
 
     path: http://localhost:3000/del/1
     
+## Authors
+
+- Premnath S (https://github.com/PremnathSundarrajan)
+
