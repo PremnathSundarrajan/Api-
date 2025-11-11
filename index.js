@@ -4,7 +4,7 @@ const express = require("express");
 const app = express();
 app.use(express.json());
 
-//Data Base
+//Consider Products array as Data Base
 let products = [
   { id: 1, title: "Mixer", price: 3000 },
   { id: 2, title: "Phone", price: 5000 },
