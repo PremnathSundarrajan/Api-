@@ -17,7 +17,8 @@ In this project I used all the req Methods to get familiar with that and also in
 Install my-project with npm
 
 ```bash
-  npm install 
+  npm install
+  cd Api-
   nodemon index.js
 ```
     
